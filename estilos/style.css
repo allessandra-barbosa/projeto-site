@@ -25,6 +25,10 @@ h2 {
     color: rgb(13, 136, 68);
 }
 
+img.lado {
+    float: right;
+}
+
 a {
     text-decoration: none;
     font-weight: bold;
